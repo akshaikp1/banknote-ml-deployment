@@ -5,3 +5,5 @@
 3.  Kurtosis of Wavelet Transformed image (continuous).
 4.  Entropy of image (continuous).
 5.  Class (0 for authentic, 1 for inauthentic).
+
+Link: https://banknote-authentication.herokuapp.com/
